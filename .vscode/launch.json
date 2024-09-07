@@ -6,8 +6,7 @@
             "type": "lldb",
             "request": "launch",
             "program": "${workspaceFolder}/target/debug/rust_tutorial",
-            "args": [
-            ],
+            "args": [],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "cargo build"
         },
@@ -16,8 +15,7 @@
             "type": "lldb",
             "request": "launch",
             "program": "${workspaceFolder}/target/release/rust_tutorial",
-            "args": [
-            ],
+            "args": [],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "cargo build release"
         }
