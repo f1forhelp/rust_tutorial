@@ -1,3 +1,6 @@
+use std::io;
+mod mod_2;
+
 fn main() {
-    println!("Hello, world!");
+    mod_2::main();
 }
