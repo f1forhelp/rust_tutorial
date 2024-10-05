@@ -1,8 +1,10 @@
+# Information about your project.
 [package]
 name = "rust_tutorial"
 version = "0.1.0"
 edition = "2021"
 
+# Dependencies that your project depends on.
 [dependencies]
 portable-pty = "0.8.1"
 rand = "0.8.5"
