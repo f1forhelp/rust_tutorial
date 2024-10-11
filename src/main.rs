@@ -1,3 +1,5 @@
+mod struct_one;
+
 fn main() {
-    println!("Hello, world!");
+    let mut user1 = User {};
 }
